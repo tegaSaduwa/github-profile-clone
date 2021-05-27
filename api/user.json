@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "fullname": "Oghenetega",
+      "username": "tegaSaduwa",
+      "img": "https://images.unsplash.com/photo-1598128558393-70ff21433be0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXJsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "repositories": [
+        {
+          "name": "builder",
+          "languages": "vue",
+          "updated": "2020-05-15T03:51:03 -01:00"
+        },
+        {
+          "name": "build me",
+          "languages": "react",
+          "updated": "2020-05-15T03:51:03 -01:00"
+        }
+      ]
+    },
+    {
+      "fullname": "jenny Frank",
+      "username": "jenny",
+      "img": "https://images.unsplash.com/photo-1541499768294-44cad3c95755?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZSUyMHBob3Rvc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "repositories": [
+        {
+          "name": "builder",
+          "languages": "vue",
+          "updated": "2020-05-15T03:51:03 -01:00"
+        },
+        {
+          "name": "build me",
+          "languages": "react",
+          "updated": "2020-05-15T03:51:03 -01:00"
+        }
+      ]
+    },
+    {
+      "fullname": "radolf bull",
+      "username": "billy",
+      "img": "https://images.unsplash.com/photo-1540174401473-df5f1c06c716?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZmlsZSUyMHBob3Rvc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "repositories": [
+        {
+          "name": "builder",
+          "languages": "vue",
+          "updated": "2020-05-15T03:51:03 -01:00"
+        },
+        {
+          "name": "build me",
+          "languages": "react",
+          "updated": "2020-05-15T03:51:03 -01:00"
+        }
+      ]
+    }
+  ]
+}
